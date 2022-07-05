@@ -115,4 +115,15 @@
   #contact {
     margin-top: 30px;
   }
+  @media(max-width: 900px){
+    h1{
+      font-size: 48px;
+      line-height: 1;
+    }
+    h3{
+      font-size: 32px;
+      line-height: 1;
+    }
+  }
+
   
